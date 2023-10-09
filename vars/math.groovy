@@ -11,3 +11,7 @@ def multiply(a,b)
 {
   echo "The multiply of ${a} and ${b} is ${a*b}"
 }
+def div(a,b)
+{
+  echo "The division of ${a} and ${b} is ${a/b}"
+}
